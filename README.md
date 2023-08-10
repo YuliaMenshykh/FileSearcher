@@ -1,2 +1,2 @@
 # FileSearcher
-![](main/Screenshot 2023-08-10 151809.png)
+![](Screenshot%202023-08-10%20151809.png)
